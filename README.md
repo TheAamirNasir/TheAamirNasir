@@ -1,16 +1,17 @@
-## Hi there 👋
+## Aamir Nasir — AI/ML Engineer
 
-<!--
-**TheAamirNasir/TheAamirNasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Advanced Computer Science @ University of Leicester
 
-Here are some ideas to get you started:
+Building systems that make AI more reliable and grounded.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current work:** Autonomous multi-agent RAG for biomedical NLP —
+reducing LLM hallucinations using LangGraph, Neo4j, and RAGAS evaluation.
+
+**Key results:**
+- 📊 100% answer faithfulness | 75% recall (vs 50% baseline) — RAGAS evaluation
+- 🛰️ 98% accuracy — EuroSAT land cover classification (MobileNetV2)
+
+**Stack:** Python · PyTorch · LangChain · LangGraph · Neo4j · Hugging Face · RAGAS
+
+📍 Leicester, UK · Available from June 2026
+🔗 [theaamirnasir.github.io](https://theaamirnasir.github.io)
